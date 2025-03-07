@@ -1,0 +1,7 @@
+C:\Users\mare.lsantos\Documents\Classes\Produto\bin\Debug\Produto.exe.config
+C:\Users\mare.lsantos\Documents\Classes\Produto\bin\Debug\Produto.exe
+C:\Users\mare.lsantos\Documents\Classes\Produto\bin\Debug\Produto.pdb
+C:\Users\mare.lsantos\Documents\Classes\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\mare.lsantos\Documents\Classes\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+C:\Users\mare.lsantos\Documents\Classes\Produto\obj\Debug\Produto.exe
+C:\Users\mare.lsantos\Documents\Classes\Produto\obj\Debug\Produto.pdb
